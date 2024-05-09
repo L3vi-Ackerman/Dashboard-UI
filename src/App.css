@@ -242,7 +242,7 @@ button a {
   width: 1125px;
   height: 250px;
   border-radius: 8px;
-  margin: 10px 10px 10px 30px; /* Adjust margins */
+  margin: 10px auto; /* Adjust margins */
   overflow-y: hidden;
   overflow-x: hidden;
 }
